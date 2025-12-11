@@ -1,0 +1,12 @@
+site_name: SASP Fase 2
+
+nav:
+  - Página Principal: index.md
+  - SASP: sostenibilidad.md
+  - ODS 04: ods04-EducacionDeCalidad.md
+  - ODS 09: ods09-IndustriaInnovacionEInfraestructura.md
+  - ODS 12: ods12-ProduccionYConsumo.md
+  - Reflexiones: reflexiones.md
+
+theme: material
+language: es
